@@ -6,3 +6,4 @@ Wildo Coda Brussels Photo Blog is a training website created by the 2019 evening
 # git-remote
 # html_structure
 # html_structure
+# html_structure
